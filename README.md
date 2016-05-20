@@ -13,7 +13,9 @@ Ponemos un comentario describiendo lo que estamos haciendo
 $ git commit -m "primera commit de prueba"
 $ git remote add origin https://github.com/ClubdeRobotica/RSL.git
 
+La primera vez va a devolver un error porque porque no tenemos configurado el usuario, pero en la misma consola indica como resolverlo
+
 Se sube el archivo.
 $ git push -u origin master
 
-La primera vez va a devolver un error porque porque no tenemos configurado el usuario, pero en la misma consola indica como resolverlo
+Pide usuario y contraseña para subir un archivo, hay que estar agregado al repositorio para poder subir
