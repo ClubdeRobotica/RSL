@@ -11,6 +11,9 @@ Para subir un archivo (prueba.md) desde consola se hace lo siguiente:
 Inicializar git
 
 git init
+Primero configurar el usuario:
+
+git config --global user.name usuario
 
 Se agrega prueba, igual que en el svn
 
