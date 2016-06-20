@@ -2,6 +2,11 @@
 
 Repositorio del proyecto RSL del Club de Robótica de la UTN-FRC
 
+#Mini Tutorial de Github
+
+Para hacer un mini tutorial de como usar GIT, pueden entrar a https://try.github.io/
+
+
 # Instrucciones:
 
 
@@ -38,4 +43,3 @@ git push -u origin master
 
 Pide usuario y contraseña para subir un archivo, hay que estar agregado al repositorio para poder subir
 
-# Para hacer un mini tutorial de como usar GIT, pueden entrar a https://try.github.io/
