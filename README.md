@@ -37,3 +37,5 @@ y volves al paso 3
 git push -u origin master
 
 Pide usuario y contraseña para subir un archivo, hay que estar agregado al repositorio para poder subir
+
+# Para hacer un mini tutorial de como usar GIT, pueden entrar a https://try.github.io/
