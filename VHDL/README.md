@@ -2,6 +2,8 @@
 	
 Sintetizado en FPGA Spartan 3E XC3S100E-TQ144
 
-Contiene:
-Maquina de estado para controlar la logica de los motores y decisiones
+Código en VHDL:
+
+Maquina de estado para controlar la logica de los motores y decisiones.
+
 PWM con instanciacion de un contador y un comparador
